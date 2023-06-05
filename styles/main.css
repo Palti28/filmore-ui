@@ -1,0 +1,39 @@
+body {
+  background: #eeaeca;
+  background: radial-gradient(circle, #eeaeca 3%, #dceffc 100%);
+}
+
+.bg-pink {
+  background: #D56D6E;
+}
+
+.bg-pink-soft {
+  background-color: #F5DDDD;
+}
+
+.nav.custom-navtabs {
+  border: 0;
+}
+.nav.custom-navtabs li.nav-item .nav-link {
+  color: black;
+  border-top: 0px;
+  border-right: 0px;
+  border-left: 0px;
+}
+.nav.custom-navtabs li.nav-item .nav-link.active {
+  color: #D56D6E;
+  border-top: 0px;
+  border-right: 0px;
+  border-left: 0px;
+  border-bottom: 1px solid #D56D6E;
+}
+
+a {
+  color: #D56D6E;
+}
+
+.form-control:focus {
+  border-color: #D56D6E;
+}
+
+/*# sourceMappingURL=main.css.map */
